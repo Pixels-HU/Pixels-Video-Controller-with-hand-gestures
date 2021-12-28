@@ -213,10 +213,6 @@ Make the connections as defined above and upload the Arduino code on your Arduin
 
 Now you can play any movie on your computer using the VLC media player and use your hand to control the movie.
 
-## More Projects
-for more projects in different enginneering fields, please visit our wevbsite:
-https://pixelseg.com/project-contest
-![Screenshot (149)](https://user-images.githubusercontent.com/80456446/124113398-b18b8a00-da6b-11eb-8faf-70db2402673c.png)
 
 
 ## Pixels App 
