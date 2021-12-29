@@ -19,11 +19,11 @@ while 1:
         pyautogui.hotkey('ctrl', 'right') 
 
     if 'Vup' in incoming:
-        pyautogui.hotkey('ctrl', 'down')
+        pyautogui.hotkey('ctrl', 'up')
         
 
     if 'Vdown' in incoming:
-        pyautogui.hotkey('ctrl', 'up')
+        pyautogui.hotkey('ctrl', 'down')
 
     incoming = "";
     
